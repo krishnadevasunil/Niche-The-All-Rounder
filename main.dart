@@ -42,9 +42,9 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                 child: const Text(
                   'Hello Amigo!',
                   style: TextStyle(
-                      color: Colors.indigoAccent[100],
+                      color: Colors.indigoAccent,
                       fontWeight: FontWeight.w500,
-                      fontSize: 80),
+                      fontSize: 100),
                 )),
             Container(
                 alignment: Alignment.center,
